@@ -1,0 +1,10 @@
+vp ap np
+np vp np u<的> np
+np np vp u<的> np
+n v n
+v n n
+n v u<的> n
+v n u<的> n
+n a u<的> n
+a n u<的> n
+
